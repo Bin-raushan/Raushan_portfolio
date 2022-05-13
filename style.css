@@ -733,9 +733,7 @@ footer span a:hover{
         left: 5%;
     }
     #email{
-        font-size: 13px;
+        font-size: 12px;
     }
-    .sub-title{
-        font-weight: 600;
-    }
+   
 }
